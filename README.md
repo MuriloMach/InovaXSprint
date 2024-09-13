@@ -3,6 +3,7 @@ Lucas dos Santos Lopes RM:550790
 Murilo Machado RM:550718
 Victor Taborda Rodrigues RM:97900
 Gustavo Marques Catelan RM:551823
+Allan Percario RM:99903
 
 <h1>Explicação da Arquitetura:</h1>
 A arquitetura do projeto segue um modelo monolítico, onde todos os componentes da aplicação estão integrados dentro de uma única solução. As diferentes responsabilidades, como controle de dados, interface de comunicação e lógica de negócios, estão separadas em projetos distintos dentro da mesma solução, o que facilita o desenvolvimento e a manutenção, mas ainda mantém todas as partes interligadas e executadas como um único serviço.
